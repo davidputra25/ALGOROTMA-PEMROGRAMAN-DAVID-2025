@@ -10,16 +10,16 @@ a = 7.5
 print(a)
 
 # menggunakan singgle quote
-myFirstName = 'ryan'
+myFirstName = 'david'
 
 # menggunakan doble quote
-myLastName = 'kaliky'
+myLastName = 'putra'
 
 # Penulisan Angka sebagai string 
-myAge = "23"
+myAge = "19"
  
 # Penulisan string multiline 
-myHobby = """Hobi saya adalah Travelling. """ 
+myHobby = """Hobi saya adalah Basket. """ 
 
 # Mencetak 2 variabel string dengan perintah print 
 print(myFirstName + " " + myLastName) 
