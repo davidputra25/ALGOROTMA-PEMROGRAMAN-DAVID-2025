@@ -1,0 +1,11 @@
+<?php
+$nama ="DAVID";
+$umur = 19;
+$tinggi = 180;
+$aktif = true;
+
+echo "Nama : $nama <br>";
+echo "Umur : $umur <br>";   
+echo "Tinggi : $tinggi <br>";
+echo "Aktif : $aktif <br>";
+?>
