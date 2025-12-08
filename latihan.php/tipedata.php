@@ -1,7 +1,7 @@
 <?php
 $nim = 'A';
-$nama = 'rian alfarizzi kaliky';
-$umur = 18;
+$nama = 'david alif tiano putra';
+$umur = 19;
 $nilai = 80;
 $status = TRUE;
 

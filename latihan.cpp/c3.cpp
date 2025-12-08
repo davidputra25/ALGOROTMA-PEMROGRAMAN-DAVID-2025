@@ -2,9 +2,9 @@
 using namespace std;
 int main()
 {
-    string nama = "rian alfarizi kaliky";
-    int umur = 23;
-    float tinggi = 170.5;
+    string nama = "david alif tiano putra";
+    int umur = 19;
+    float tinggi = 180.5;
     bool aktif = true;
 
     cout << "Nama : " << nama << endl;

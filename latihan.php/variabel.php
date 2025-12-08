@@ -1,9 +1,9 @@
 <!-- variable dengan php -->
 <?php
 $char = 'A';
-$string = 'riaan alfarizi kaliky';
+$string = 'david alif tiano putra';
 $a = 18;
-$penghasilan = 100000;
+$penghasilan = 2500000;
 $nilai_uts = 80;
 
 echo "---Belajar Variabel --- <br><br>";

@@ -1,7 +1,7 @@
-nama = "david alif tiano putra";
+nama = "david alif tiano putra"
 umur = 19
 tinggi = 190
-aktif = TRUE
+aktif = True
 
 print("nama:", nama)
 print("umur:", umur)
